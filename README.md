@@ -25,12 +25,15 @@ IBM HR Analytics Employee Attrition Dataset (Kaggle)
 ![Dashboard](Dashboard.png)
 
 ## 📂 Repository Structure
+```text
 Employee-Attrition-Analysis/
 ├── Dashboard image/
 ├── Power bi file/
 ├── CSV data files/
 ├── Jupyter Notebook code/
 └── README.md
+```
+
 
 ## 📬 Contact
 Vinayak Pawate
